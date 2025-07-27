@@ -40,6 +40,10 @@ Technologies Used
 - scikit-learn
 - xgboost
 
+License
+
+This is an educational project.  
+The dataset is provided by Kaggle and is subject to their license.
 
 Author
 
